@@ -1,0 +1,222 @@
+2020-11-15 17:24:22.397 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 5489 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:24:22.402 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:24:23.908 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:24:23.920 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:24:23.922 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:24:23.923 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:24:24.009 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:24:24.010 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1485 ms
+2020-11-15 17:24:24.319 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:24:24.526 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:24:24.546 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:24:24.563 [main] INFO  com.example.log.LogApplication - Started LogApplication in 2.943 seconds (JVM running for 3.98)
+2020-11-15 17:25:51.190 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:25:59.773 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 5647 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:25:59.783 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:26:01.204 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:26:01.237 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:26:01.239 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:26:01.240 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:26:01.329 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:26:01.330 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1392 ms
+2020-11-15 17:26:01.708 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:26:01.985 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:26:02.012 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:26:02.030 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.036 seconds (JVM running for 4.114)
+2020-11-15 17:26:06.924 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:26:06.925 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:26:06.926 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2020-11-15 17:26:06.950 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:28:11.823 [http-nio-8080-exec-2] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:28:32.778 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:28:41.177 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 5879 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:28:41.182 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:28:42.898 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:28:42.917 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:28:42.919 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:28:42.920 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:28:43.041 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:28:43.042 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1763 ms
+2020-11-15 17:28:43.411 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:28:43.618 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:28:43.639 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:28:43.655 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.222 seconds (JVM running for 4.316)
+2020-11-15 17:28:50.271 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:28:50.272 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:28:50.273 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2020-11-15 17:29:49.218 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:29:53.774 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6100 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:29:53.780 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:29:55.296 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:29:55.308 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:29:55.310 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:29:55.310 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:29:55.441 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:29:55.441 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1567 ms
+2020-11-15 17:29:55.871 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:29:56.145 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:29:56.172 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:29:56.195 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.165 seconds (JVM running for 4.42)
+2020-11-15 17:30:02.019 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:30:02.020 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:30:02.022 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-15 17:30:13.205 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:30:19.282 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6212 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:30:19.291 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:30:20.780 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:30:20.792 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:30:20.794 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:30:20.794 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:30:20.888 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:30:20.888 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1456 ms
+2020-11-15 17:30:21.219 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:30:21.451 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:30:21.475 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:30:21.496 [main] INFO  com.example.log.LogApplication - Started LogApplication in 2.96 seconds (JVM running for 4.093)
+2020-11-15 17:30:27.822 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:30:27.822 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:30:27.824 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2020-11-15 17:30:27.849 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:30:45.261 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:30:49.613 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6339 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:30:49.623 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:30:51.256 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:30:51.273 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:30:51.275 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:30:51.275 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:30:51.404 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:30:51.405 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1664 ms
+2020-11-15 17:30:51.766 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:30:51.958 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:30:51.978 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:30:51.998 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.172 seconds (JVM running for 4.358)
+2020-11-15 17:30:58.672 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:31:01.495 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6440 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:31:01.500 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:31:03.177 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:31:03.191 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:31:03.192 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:31:03.193 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:31:03.330 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:31:03.331 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1720 ms
+2020-11-15 17:31:03.651 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:31:03.897 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:31:03.922 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:31:03.940 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.157 seconds (JVM running for 4.644)
+2020-11-15 17:32:12.958 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:32:16.924 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6611 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:32:16.929 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:32:18.612 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:32:18.632 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:32:18.633 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:32:18.634 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:32:18.762 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:32:18.762 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1733 ms
+2020-11-15 17:32:19.132 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:32:19.345 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:32:19.363 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:32:19.382 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.388 seconds (JVM running for 4.263)
+2020-11-15 17:32:22.536 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:32:22.537 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:32:22.538 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2020-11-15 17:32:22.564 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:32:22.859 [http-nio-8080-exec-2] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:32:24.880 [http-nio-8080-exec-3] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:32:38.364 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:32:42.813 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6824 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:32:42.820 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:32:44.279 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:32:44.294 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:32:44.295 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:32:44.296 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:32:44.376 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:32:44.376 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1428 ms
+2020-11-15 17:32:44.678 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:32:44.891 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:32:44.913 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:32:44.935 [main] INFO  com.example.log.LogApplication - Started LogApplication in 2.952 seconds (JVM running for 3.792)
+2020-11-15 17:32:49.575 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:32:49.576 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:32:49.577 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2020-11-15 17:32:49.601 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:33:06.127 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:33:12.370 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 6974 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:33:12.377 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:33:13.863 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:33:13.875 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:33:13.877 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:33:13.877 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:33:13.960 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:33:13.960 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1496 ms
+2020-11-15 17:33:14.281 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:33:14.492 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:33:14.517 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:33:14.538 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.021 seconds (JVM running for 3.874)
+2020-11-15 17:33:17.830 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:33:17.831 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:33:17.833 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-15 17:33:17.860 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:33:44.187 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:33:49.954 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 7082 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:33:49.958 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:33:51.617 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:33:51.636 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:33:51.638 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:33:51.639 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:33:51.764 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:33:51.764 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1693 ms
+2020-11-15 17:33:52.145 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:33:52.387 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:33:52.404 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:33:52.425 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.346 seconds (JVM running for 4.188)
+2020-11-15 17:33:55.729 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:33:55.730 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:33:55.732 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-15 17:33:55.760 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:37:32.404 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:48:10.542 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 8412 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:48:10.554 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:48:12.543 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:48:12.555 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:48:12.558 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:48:12.559 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:48:12.656 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:48:12.657 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1946 ms
+2020-11-15 17:48:12.969 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:48:13.186 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:48:13.214 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:48:13.235 [main] INFO  com.example.log.LogApplication - Started LogApplication in 4.084 seconds (JVM running for 5.416)
+2020-11-15 17:48:19.382 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:48:19.383 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:48:19.385 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-15 17:48:19.419 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
+2020-11-15 17:48:51.257 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:51:37.514 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 8883 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:51:37.521 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:51:39.410 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:51:39.432 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:51:39.434 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:51:39.435 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:51:39.587 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:51:39.589 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1911 ms
+2020-11-15 17:51:40.130 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:51:40.525 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:51:40.578 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:51:40.690 [main] INFO  com.example.log.LogApplication - Started LogApplication in 4.075 seconds (JVM running for 4.957)
+2020-11-15 17:51:51.164 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:51:55.317 [main] INFO  com.example.log.LogApplication - Starting LogApplication using Java 1.8.0_131 on sun-PC with PID 8981 (/home/sun/IdeaProjects/SpringBootLog4j/target/classes started by sun in /home/sun/IdeaProjects/SpringBootLog4j)
+2020-11-15 17:51:55.325 [main] INFO  com.example.log.LogApplication - No active profile set, falling back to default profiles: default
+2020-11-15 17:51:57.074 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2020-11-15 17:51:57.106 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:51:57.108 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-11-15 17:51:57.108 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 17:51:57.195 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-11-15 17:51:57.196 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1753 ms
+2020-11-15 17:51:57.579 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 17:51:57.850 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2020-11-15 17:51:57.876 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 17:51:57.939 [main] INFO  com.example.log.LogApplication - Started LogApplication in 3.492 seconds (JVM running for 4.517)
+2020-11-15 17:52:38.642 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 17:52:38.642 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-11-15 17:52:38.644 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2020-11-15 17:52:38.670 [http-nio-8080-exec-1] INFO  com.example.log.controller.LogController - info
